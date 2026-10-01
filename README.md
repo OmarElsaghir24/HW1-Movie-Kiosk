@@ -20,5 +20,5 @@ Guided software engineering tools practice
   7. The system processes the payment successfully.
   8. The system issues the ticket and marks the selected seat as booked for that showtime.
  
-  - Postcondition: The purchase is recorded, the customer receives a ticket, and the selected seat is booked for the selected showtime.
+- Postcondition: The purchase is recorded, the customer receives a ticket, and the selected seat is booked for the selected showtime.
 
